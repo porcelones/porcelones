@@ -33,5 +33,5 @@
   <div>
  
   ![Terminal Animation](https://nbedos.github.io/termtosvg/examples/dracula.svg)
- <img align="right" alt="Leo-Madara" src="https://media.discordapp.net/attachments/857725809443733534/869969615516729344/4fadc8d915d3927102a8a7ebbfdf2ddb9d7416db_hq.gif?width=200&height=320">
+ <img align="right" alt="Leo-Madara" src="https://media.discordapp.net/attachments/857725809443733534/869969615516729344/4fadc8d915d3927102a8a7ebbfdf2ddb9d7416db_hq.gif?width=170&height=320">
 </div>
