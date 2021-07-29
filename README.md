@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/porcelones">
-  <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=porcelones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porcelones&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="500" width="300" src="https://github-readme-stats.vercel.app/api?username=porcelones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="500" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porcelones&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
