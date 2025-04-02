@@ -2,12 +2,6 @@
 
 ##
 
-- 🔭 Hoje trabalho com Pricing
-- 🌱 Estou estudando Python e Redes de Computadores
-- ⚡ Sou apaixonado por Linux e Redes
-
-##
-
 <div>
   <a href="https://github.com/porcelones">
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=porcelones&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
