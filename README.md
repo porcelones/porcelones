@@ -40,4 +40,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <a href="https://www.linkedin.com/in/leonardo-porcel">
     <img src="https://img.shields.io/badge/Linkedin-12100E?style=for-the-badge&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
+  <a href="https://x.com/porcelones">
+    <img src="https://img.shields.io/badge/X/Twitter-12100E?style=for-the-badge&logoColor=white" target="_blank" alt="X/Twitter">
+  </a>
 </div>
