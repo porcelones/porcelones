@@ -5,10 +5,10 @@
     You may also want to connect with me on LinkedIn @leonardo-porcel :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6699CC&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00FFFF&width=435&lines=Hi%2C+it's+Leonardo+Porcel;Pricing+Analyst" alt="Pricing Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2200&pause=500&color=6699CC&width=435&lines=Hi%2C+it's+Leonardo+Porcel;Pricing+Analyst" alt="Pricing Analyst"/>
 </a>
 
 <div>
